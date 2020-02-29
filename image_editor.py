@@ -1,5 +1,5 @@
 import os.path
-
+1
 OPTION_RANGE = 7
 HEADER_LENGTH = 3
 LINE_LENGTH = 10
